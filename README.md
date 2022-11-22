@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Cagatay Ersoy, A self-motivated web developer. I am passionate about developing user-friendly, responsive, and creative websites, web applications, and web-based games. I am looking for Developer Intern or OPT position within an organization or a company that I can contribute with my programming abilities, and strong interpersonal skills.
-
+I am Cagatay Ersoy, A self-motivated web developer. I am passionate about developing user-friendly, responsive, and creative websites, web applications, and web-based games.
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
